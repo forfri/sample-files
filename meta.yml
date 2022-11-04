@@ -1,0 +1,49 @@
+samples:
+  csv:
+    - file_path: ./sample/csv/simple-n1.csv
+      source: https://people.sc.fsu.edu/~jburkardt/data/csv/cities.csv
+
+
+  jpeg:
+    - file_path: ./samples/jpeg/simple-n1-600x800-88KB.jpeg
+      source: https://commons.wikimedia.org/wiki/File:Basing_River_Lingayen_Pangasinan.jpg
+
+
+  json:
+    - file_path: ./samples/json/bioc-n1-20KB.json
+      source: https://github.com/ncbi-nlp/BioC-JSON/blob/master/json/collection.json
+  
+  mp3:
+    - file_path: ./samples/mp3/simple-n1-1KB.mp3
+      source: https://commons.wikimedia.org/wiki/File:Adune.mp3
+
+
+  png:
+    - file_path: ./samples/png/simple-n1-599x600-277KB.png
+      source: https://commons.wikimedia.org/wiki/File:Earth_fluent_design_reflective_surface_icon.png
+
+
+  svg:
+    - file_path: ./samples/svg/simple-n1-83KB.svg
+      source: https://commons.wikimedia.org/wiki/File:And_I_said_W%C3%B4t.svg
+
+
+  tsv:
+    - file_path: ./samples/tsv/simple-n1-1KB.json
+      source: https://onlinerandomtools.com/generate-random-tsv
+  
+  
+  txt:
+    - file_path: ./samples/txt/simple-n1-5KB.txt
+      source: null
+
+  
+  xml:
+    - file_path: ./samples/xml/base-5KB.xml
+      source: https://www.w3schools.com/xml/cd_catalog.xml
+
+    - file_path: ./samples/xml/simple-133KB.xml
+      source: https://www.w3schools.com/xml/note.xml
+
+    - file_path: ./xml/bioc-n1-18KB.xml
+      source: https://github.com/ncbi-nlp/BioC-JSON/blob/master/xml/collection.xml
