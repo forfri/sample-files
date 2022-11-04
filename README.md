@@ -1,5 +1,5 @@
 # Sample Files
-Samples of files of different types.
+Sample files for different types.
 
 ## Available Files Types
 - CSV
