@@ -1,2 +1,13 @@
-# sample-files
-Samples of files of different formats.
+# Sample Files
+Samples of files of different types.
+
+## Available Files Types
+- CSV
+- JPEG
+- JSON
+- MP3
+- PNG
+- SVG
+- TSV
+- TXT
+- XML
